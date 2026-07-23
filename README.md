@@ -42,7 +42,6 @@ El jugador debe defender los regalos del ataque de los Zombies Grinch colocando 
 - Manejo de colisiones
 - Lógica de juegos
 - Organización de código en paquetes
-- Trabajo con GitHub
 
 ---
 
