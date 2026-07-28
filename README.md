@@ -31,20 +31,15 @@ El jugador debe defender los regalos del ataque de los Zombies Grinch colocando 
 
 - Java
 - Entorno gráfico provisto por la cátedra
-- Programación orientada a objetos
 - Eclipse
 
 ---
 
 ## 📚 Aprendizajes
 
-- Diseño de clases y objetos
+- Programación orientada a objetos
 - Manejo de colisiones
 - Lógica de juegos
 - Organización de código en paquetes
 
 ---
-
-## 🎓 Contexto académico
-
-Proyecto desarrollado como trabajo práctico final de la materia **Programación I** en la Universidad Nacional de General Sarmiento (UNGS).
